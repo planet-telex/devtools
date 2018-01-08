@@ -1,0 +1,10 @@
+{
+    "ipAddress": "0.0.0.0",
+    "rootPath": "/Users/macbook/gists/dev",
+    "sshUsername": "username",
+    "localRootUri": "http://localhost/~macbook/gists/dev/public",
+    "dbUser": "root",
+    "dbTable": "tableName",
+    "mainBuild": "npm run production",
+    "watchCommand": "npm run watch"
+}
